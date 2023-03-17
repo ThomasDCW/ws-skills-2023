@@ -18,13 +18,17 @@
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ✔️
 
-[Boileerplate node-ts (branche wilder-server)](https://github.com/ThomasDCW/boilerplate-node-typescript)
+[Boilerplate node-express-ts (branche wilder-server)](https://github.com/ThomasDCW/boilerplate-node-typescript/tree/wilder-server)
 
 Description :
 
-### Utilisation en production si applicable❌ / ✔️
+CRUD node-express-typscript
+API REST de wilders (élèves de la wild code school), chaque wilder peut se voir attribuer des compétences, ses compétences peuvent être notées.
+DB : SQLITE
+
+### Utilisation en production si applicable ❌
 
 [lien du projet](...)
 
