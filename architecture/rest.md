@@ -6,10 +6,12 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- les verbes HTTP ❌ / ✔️
-- les statuts HTTP ❌ / ✔️
-- les endpoints ❌ / ✔️
-- CORS ❌ / ✔️
+- les verbes HTTP ✔️ CREATE (post) | READ (get) | UPDATE (put) | DELETE (delete) sont les verbes https qui indiquent l'action que l'on souhaite réaliser sur notre base de donnée
+
+- les statuts HTTP ✔️ Réponse qui indique l'état de notre requête http (200, 201, 400, 404, 418 🫖)
+
+- les endpoints ✔️ URL qui donne l'emplacement d'une ressource
+- CORS ✔️ « Cross-origin resource sharing » | Autorisation pour le naviguateur pour d'effectuer des requêtes http
 - la nomenclature recommandée pour les routes ❌ / ✔️
 
 ## 💻 J'utilise
@@ -18,7 +20,7 @@
 
 ### Utilisation dans un projet ❌ / ✔️
 
-[lien github](...)
+[Boileerplate node-ts (branche wilder-server)](https://github.com/ThomasDCW/boilerplate-node-typescript)
 
 Description :
 
