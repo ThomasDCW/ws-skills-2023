@@ -16,7 +16,9 @@
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✔️
+
+![image](./assets//rest.png)
 
 ### Utilisation dans un projet ✔️
 
@@ -24,17 +26,17 @@
 
 Description :
 
-CRUD node-express-typscript
-API REST de wilders (élèves de la wild code school), chaque wilder peut se voir attribuer des compétences, ses compétences peuvent être notées.
-DB : SQLITE
+- CRUD node-express-typscript
+- API REST de wilders (élèves de la wild code school), chaque wilder peut se voir attribuer des compétences, ses compétences peuvent être notées.
+- DB : SQLITE
 
-### Utilisation en production si applicable ❌
+<!-- ### Utilisation en production si applicable ❌
 
 [lien du projet](...)
 
-Description :
+Description : -->
 
-### Utilisation en environement professionnel ❌ / ✔️
+<!-- ### Utilisation en environement professionnel ❌ / ✔️
 
 Description :
 
@@ -62,4 +64,4 @@ Résolution :
 ## 📽️ J'en fais la démonstration
 
 - J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai fait une [présentation](...) ❌ / ✔️ -->
