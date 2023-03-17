@@ -12,11 +12,11 @@
 
 - les endpoints ✔️ URL qui donne l'emplacement d'une ressource
 - CORS ✔️ « Cross-origin resource sharing » | Autorisation pour le naviguateur pour d'effectuer des requêtes http
-- la nomenclature recommandée pour les routes ❌ / ✔️
+- la nomenclature recommandée pour les routes ✔️
 
 ## 💻 J'utilise
 
-### Un exemple personnel commenté ✔️
+### Un exemple personnel ✔️
 
 ![image](./assets//rest.png)
 
@@ -30,13 +30,13 @@ Description :
 - API REST de wilders (élèves de la wild code school), chaque wilder peut se voir attribuer des compétences, ses compétences peuvent être notées.
 - DB : SQLITE
 
-<!-- ### Utilisation en production si applicable ❌
+### Utilisation en production si applicable ❌
 
 [lien du projet](...)
 
 Description : -->
 
-<!-- ### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ / ✔️
 
 Description :
 
@@ -64,4 +64,4 @@ Résolution :
 ## 📽️ J'en fais la démonstration
 
 - J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️ -->
+- J'ai fait une [présentation](...) ❌ / ✔️
